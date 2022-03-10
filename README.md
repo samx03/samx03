@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ReactJs
 - 👀 I’m interested in frontend Development
 - 👨‍🎓 I'm currently an IT Student at K.J Somaiya, Sion
-- 📫 How to reach me **sameerbakshi@gmail.com**
+- 📫 How to reach me **sameerbakshi34@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
