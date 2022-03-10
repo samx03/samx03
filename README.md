@@ -16,5 +16,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samx03&show_icons=true&locale=en" alt="samx03" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samx03&theme=monokai&show_icons=true&locale=en" alt="samx03" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=samx03&theme=monokai&show_icons=true&locale=en" alt="samx03" /></p>
 
