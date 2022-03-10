@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning ReactJs
 - 👀 I’m interested in frontend Development
 - 👨‍🎓 I'm currently an IT Student at K.J Somaiya, Sion
+- 💻 All of my projects are available at **https://www.linkedin.com/in/sameer-bakshi-480789218/**
 - 📫 How to reach me **sameerbakshi34@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
