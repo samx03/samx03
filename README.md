@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="Insert block.gif" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="Insert block-bro.svg" height="175px"/></a>
 <h1 align="center">Hi 👋, I'm Sameer Bakshi</h1>
 
 - 👋 Hello! I am Sameer.
