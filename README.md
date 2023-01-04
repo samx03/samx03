@@ -32,8 +32,6 @@
 <br/>
 <br/>
 
-<a href="https://github.com/samx03/github-readme-activity-graph"><img alt="samx03's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=samx03&theme=monokai" /></a>
-
 <br/>
 <br/>
 
