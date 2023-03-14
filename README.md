@@ -1,5 +1,5 @@
-<a href="#"><img width="100%" src="Insert block-bro.svg" height="400px"/></a>
-<h1 align="center">Hi 👋, I'm Sameer Bakshi</h1>
+<h1 href="#" align="center"><img width="50%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGU4ZmM3MWI0NmI0OWVjYjViZjJkNzFkMzQ2ZmRmMTMzOGU3MWY2OSZjdD1n/L8K62iTDkzGX6/giphy.gif" height="200px"/></h1>
+<h1 align="center">Hi, I'm Sameer Bakshi</h1>
 
 - 👋 Hello! I am Sameer.
 - 🌱 Currently learning ReactJs
@@ -16,6 +16,8 @@
 
 <br/>
 
+<h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{samx03}/count.svg" alt="samx03's Visitor's count" /></p>
 
 <p align="center">
     <a href="https://github.com/samx03/github-readme-streak-stats">
