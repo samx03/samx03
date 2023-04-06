@@ -3,7 +3,7 @@
 
 - 👋 Hello! I am Sameer.
 - 🌱 Currently learning ReactJs
-- 👨‍🎓 Currently pursuing B.Tech at KJSIEIT
+- 👨‍🎓 Currently pursuing B.Tech at KJSIT
 - 📫 **sameerbakshi34@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
