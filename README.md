@@ -2,7 +2,6 @@
 <h1 align="center">Hi, I'm Sameer Bakshi</h1>
 
 - 👋 Hello! I am Sameer.
-- 🌱 Currently learning ReactJs
 - 📫 **sameerbakshi34@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
